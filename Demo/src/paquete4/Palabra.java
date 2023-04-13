@@ -15,3 +15,4 @@ public class Palabra {
         return "Loja";
     }
 }
+
